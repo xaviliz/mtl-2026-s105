@@ -52,4 +52,8 @@ For inferencing with the voice_instrumental-audioset-vggish model:
 ```bash
 python voice_instrumental_inference.py
 ```
+
+Could use [Sonic Visualizer](https://sonicvisualiser.org/) for displaying predictions:
+<img title="Predictions in Sonic Visualizer" alt="Predictions" src="/images/1-mix-sv.png">
+
 For augmentations check this [Google Collab](https://colab.research.google.com/drive/1cPYcfyY6Jti_0gH-1GnKhxut-9xz4dRd?usp=sharing)
