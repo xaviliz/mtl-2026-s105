@@ -1,7 +1,10 @@
 #!/bin/bash
 
+# Get the directory where this script is located
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
 # Create a directory for the models
-MODEL_DIR="data/models/voice-instrumental"
+MODEL_DIR="${SCRIPT_DIR}/../data/models/voice-instrumental"
 mkdir -p "$MODEL_DIR"
 
 # Base URL

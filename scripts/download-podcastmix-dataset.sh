@@ -9,7 +9,7 @@ set -e
 #   ./download_podcastmix.sh <output_dir> [GDRIVE_TOKEN]
 #
 # Examples:
-#   ./download_podcastmix.sh data
+#   ./download_podcastmix.sh ../data/dataset/
 #   ./download_podcastmix.sh data YOUR_TOKEN
 #
 # If token is provided → downloads podcastmix-synth subset
