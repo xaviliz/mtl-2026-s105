@@ -52,16 +52,4 @@ For inferencing with the voice_instrumental-audioset-vggish model:
 ```bash
 python voice_instrumental_inference.py
 ```
-```
-
-```
-```
-```
-```
-```
-```
-
-```
-```
-```
-```
+For augmentations check this [Google Collab](https://colab.research.google.com/drive/1cPYcfyY6Jti_0gH-1GnKhxut-9xz4dRd?usp=sharing)
